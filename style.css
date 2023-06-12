@@ -73,7 +73,7 @@ img{
     color: var(--primary-color);
     font-size: 17px;
     font-style: italic;
-    text-shadow: 0.2px 0.2px 0.7px rgb(156, 156, 156);
+    text-shadow: 0.2px 0.2px 0.7px rgb(88, 88, 88);
 }
 
 .card__social{
